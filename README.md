@@ -1,2 +1,1 @@
-# Java-DesignPatterns
- Suunnittelumallit - Course
+# Suunnittelumallitkurssi
